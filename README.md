@@ -1,5 +1,3 @@
-# algorithm-practice
-
 # 🧠 Algorithm Practice
 
 Welcome to my algorithm practice repository!  
