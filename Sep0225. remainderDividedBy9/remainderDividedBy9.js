@@ -36,8 +36,4 @@ console.log(solution("78720646226947352489")); // 2
 5) Return the remainder
    - return answer;
 
-Notes:
-- Time complexity: O(n), where n = number.length.
-- Space complexity: O(1).
-- Safe for the given constraints (sum ≤ 9 * 100,000 = 900,000).
 */
