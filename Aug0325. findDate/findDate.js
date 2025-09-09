@@ -1,4 +1,5 @@
 function solution(a, b) {
+    
     const daysOfWeek = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'];
 
     // February has 29 days in a leap year
