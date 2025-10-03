@@ -1,9 +1,10 @@
 function solution(n) {
-  // Convert the number to a string → split into digits → convert to numbers → sum them up.
+
   return n.toString()
     .split("")
     .map((num) => Number(num))
     .reduce((acc, cur) => acc + cur, 0);
+    
 }
 
 console.log(solution(123)); // 6
